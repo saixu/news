@@ -1,0 +1,16 @@
+{
+  "name": "news",
+  "scripts": {
+    "postdeploy": "test.php"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
